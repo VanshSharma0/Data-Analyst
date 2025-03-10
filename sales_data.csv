@@ -1,0 +1,63 @@
+Date,Product,Category,Quantity,Price,Revenue,Customer,Region,Discount,Channel
+2023-03-01,Laptop,Electronics,5,1299.99,6499.95,Enterprise A,East,0.00,B2B
+2023-03-01,Smartphone,Electronics,12,899.99,10799.88,Retail Store 1,West,0.05,Retail
+2023-03-02,Headphones,Accessories,18,159.99,2879.82,Retail Store 2,South,0.10,Retail
+2023-03-02,Monitor,Electronics,7,349.99,2449.93,Enterprise B,North,0.15,B2B
+2023-03-03,Keyboard,Accessories,14,79.99,1119.86,Retail Store 3,East,0.00,Retail
+2023-03-03,Mouse,Accessories,22,49.99,1099.78,Online Store,West,0.05,Online
+2023-03-04,Tablet,Electronics,9,599.99,5399.91,Enterprise C,South,0.20,B2B
+2023-03-04,Printer,Electronics,3,299.99,899.97,Retail Store 1,North,0.00,Retail
+2023-03-05,Laptop,Electronics,8,1299.99,10399.92,Enterprise D,East,0.10,B2B
+2023-03-05,Smartphone,Electronics,15,899.99,13499.85,Online Store,West,0.05,Online
+2023-03-06,Headphones,Accessories,,159.99,,Retail Store 2,South,0.00,Retail
+2023-03-06,Monitor,Electronics,6,349.99,2099.94,Enterprise B,North,0.15,B2B
+2023-03-07,Keyboard,Accessories,11,79.99,879.89,Retail Store 3,East,0.00,Retail
+2023-03-07,Mouse,Accessories,19,49.99,949.81,Online Store,West,0.05,Online
+2023-03-08,Tablet,Electronics,7,599.99,4199.93,Enterprise C,South,0.20,B2B
+2023-03-08,Printer,Electronics,4,299.99,1199.96,Retail Store 1,North,0.00,Retail
+2023-03-09,Laptop,Electronics,6,1299.99,7799.94,Enterprise A,East,0.05,B2B
+2023-03-09,Smartphone,Electronics,13,899.99,11699.87,Retail Store 2,West,0.10,Retail
+2023-03-10,Headphones,Accessories,21,159.99,3359.79,Retail Store 3,South,0.00,Retail
+2023-03-10,Monitor,Electronics,5,349.99,1749.95,Enterprise B,North,0.15,B2B
+2023-03-11,Keyboard,Accessories,16,79.99,1279.84,Online Store,East,0.05,Online
+2023-03-11,Mouse,Accessories,25,49.99,1249.75,Retail Store 1,West,0.00,Retail
+2023-03-12,Tablet,Electronics,,599.99,,Enterprise C,South,0.20,B2B
+2023-03-12,Printer,Electronics,2,299.99,599.98,Retail Store 2,North,0.05,Retail
+2023-03-13,Laptop,Electronics,7,1299.99,9099.93,Enterprise D,East,0.10,B2B
+2023-03-13,Smartphone,Electronics,14,899.99,12599.86,Online Store,West,0.05,Online
+2023-03-14,Headphones,Accessories,17,159.99,2719.83,Retail Store 3,South,0.00,Retail
+2023-03-14,Monitor,Electronics,8,349.99,2799.92,Enterprise B,North,0.15,B2B
+2023-03-15,Keyboard,Accessories,13,79.99,1039.87,Retail Store 1,East,0.05,Retail
+2023-03-15,Mouse,Accessories,20,49.99,999.80,Online Store,West,0.00,Online
+2023-03-16,Tablet,Electronics,10,599.99,5999.90,Enterprise C,South,0.20,B2B
+2023-03-16,Printer,Electronics,5,299.99,1499.95,Retail Store 2,North,0.05,Retail
+2023-03-17,Laptop,Electronics,9,1299.99,11699.91,Enterprise A,East,0.05,B2B
+2023-03-17,Smartphone,Electronics,,899.99,,Retail Store 3,West,0.10,Retail
+2023-03-18,Headphones,Accessories,19,159.99,3039.81,Online Store,South,0.00,Online
+2023-03-18,Monitor,Electronics,4,349.99,1399.96,Enterprise B,North,0.15,B2B
+2023-03-19,Keyboard,Accessories,12,79.99,959.88,Retail Store 1,East,0.05,Retail
+2023-03-19,Mouse,Accessories,23,49.99,1149.77,Retail Store 2,West,0.00,Retail
+2023-03-20,Tablet,Electronics,8,599.99,4799.92,Enterprise C,South,0.20,B2B
+2023-03-20,Printer,Electronics,6,299.99,1799.94,Online Store,North,0.05,Online
+2023-03-21,Laptop,Electronics,10,1299.99,12999.90,Enterprise D,East,0.10,B2B
+2023-03-21,Smartphone,Electronics,16,899.99,14399.84,Retail Store 3,West,0.05,Retail
+2023-03-22,Headphones,Accessories,20,159.99,3199.80,Retail Store 1,South,0.00,Retail
+2023-03-22,Monitor,Electronics,9,349.99,3149.91,Enterprise B,North,0.15,B2B
+2023-03-23,Keyboard,Accessories,15,79.99,1199.85,Online Store,East,0.05,Online
+2023-03-23,Mouse,Accessories,24,49.99,1199.76,Retail Store 2,West,0.00,Retail
+2023-03-24,Tablet,Electronics,11,599.99,6599.89,Enterprise C,South,0.20,B2B
+2023-03-24,Printer,Electronics,7,299.99,2099.93,Retail Store 3,North,0.05,Retail
+2023-03-25,Laptop,Electronics,6,1299.99,7799.94,Enterprise A,East,0.05,B2B
+2023-03-25,Smartphone,Electronics,17,899.99,15299.83,Online Store,West,0.10,Online
+2023-03-26,Headphones,Accessories,,159.99,,Retail Store 1,South,0.00,Retail
+2023-03-26,Monitor,Electronics,5,349.99,1749.95,Enterprise B,North,0.15,B2B
+2023-03-27,Keyboard,Accessories,14,79.99,1119.86,Retail Store 2,East,0.05,Retail
+2023-03-27,Mouse,Accessories,21,49.99,1049.79,Online Store,West,0.00,Online
+2023-03-28,Tablet,Electronics,9,599.99,5399.91,Enterprise C,South,0.20,B2B
+2023-03-28,Printer,Electronics,8,299.99,2399.92,Retail Store 3,North,0.05,Retail
+2023-03-29,Laptop,Electronics,11,1299.99,14299.89,Enterprise D,East,0.10,B2B
+2023-03-29,Smartphone,Electronics,18,899.99,16199.82,Retail Store 1,West,0.05,Retail
+2023-03-30,Headphones,Accessories,22,159.99,3519.78,Online Store,South,0.00,Online
+2023-03-30,Monitor,Electronics,10,349.99,3499.90,Enterprise B,North,0.15,B2B
+2023-03-31,Keyboard,Accessories,17,79.99,1359.83,Retail Store 2,East,0.05,Retail
+2023-03-31,Mouse,Accessories,26,49.99,1299.74,Retail Store 3,West,0.00,Retail
